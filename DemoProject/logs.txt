@@ -1,0 +1,169 @@
+
+current time=0 ,tasks not assigned 1 4
+current time=0 ,tasks not assigned 1 2
+current time=0 ,tasks not assigned 2 2
+current time=0 ,tasks not assigned 3 4
+current time=0 ,tasks not assigned 3 4
+current time=0 ,tasks not assigned 4 2
+current time=0 ,tasks not assigned 4 4
+current time=0 ,tasks not assigned 5 4
+current time=0 ,tasks not assigned 5 3
+current time=0 ,tasks not assigned 5 3
+current time=0 ,tasks not assigned 6 4
+current time=0 ,tasks not assigned 7 3
+
+current time=1 ,tasks not assigned 1 4
+current time=1 ,tasks not assigned 1 2
+current time=1 ,tasks not assigned 2 2
+current time=1 TASK TAKEN by server with id: 0 task:id=5 ArrTime 1 PrTime: 4
+current time=1 ,tasks not assigned 3 4
+current time=1 ,tasks not assigned 3 4
+current time=1 ,tasks not assigned 4 2
+current time=1 ,tasks not assigned 4 4
+current time=1 ,tasks not assigned 5 4
+current time=1 ,tasks not assigned 5 3
+current time=1 ,tasks not assigned 5 3
+current time=1 ,tasks not assigned 6 4
+current time=1 ,tasks not assigned 7 3
+
+current time=2 ,tasks not assigned 1 2
+current time=2 ,tasks not assigned 2 2
+current time=2 ,tasks not assigned 3 4
+current time=2 ,tasks not assigned 3 4
+current time=2 ,tasks not assigned 4 2
+current time=2 ,tasks not assigned 4 4
+current time=2 ,tasks not assigned 5 4
+current time=2 ,tasks not assigned 5 3
+current time=2 ,tasks not assigned 5 3
+current time=2 ,tasks not assigned 6 4
+current time=2 ,tasks not assigned 7 3
+
+current time=3 ,tasks not assigned 1 2
+current time=3 ,tasks not assigned 2 2
+current time=3 ,tasks not assigned 3 4
+current time=3 ,tasks not assigned 3 4
+current time=3 ,tasks not assigned 4 2
+current time=3 ,tasks not assigned 4 4
+current time=3 ,tasks not assigned 5 4
+current time=3 ,tasks not assigned 5 3
+current time=3 ,tasks not assigned 5 3
+current time=3 ,tasks not assigned 6 4
+current time=3 ,tasks not assigned 7 3
+
+current time=4 ,tasks not assigned 1 2
+current time=4 ,tasks not assigned 2 2
+current time=4 ,tasks not assigned 3 4
+current time=4 ,tasks not assigned 3 4
+current time=4 ,tasks not assigned 4 2
+current time=4 ,tasks not assigned 4 4
+current time=4 ,tasks not assigned 5 4
+current time=4 ,tasks not assigned 5 3
+current time=4 ,tasks not assigned 5 3
+current time=4 ,tasks not assigned 6 4
+current time=4 ,tasks not assigned 7 3
+current time=5 TASK REMOVED by server with id: 0 task:id=5 ArrTime 1 PrTime: 4
+
+current time=5 ,tasks not assigned 1 2
+current time=5 ,tasks not assigned 2 2
+current time=5 ,tasks not assigned 3 4
+current time=5 ,tasks not assigned 3 4
+current time=5 TASK TAKEN by server with id: 0 task:id=6 ArrTime 1 PrTime: 2
+current time=5 ,tasks not assigned 4 2
+current time=5 ,tasks not assigned 4 4
+current time=5 ,tasks not assigned 5 4
+current time=5 ,tasks not assigned 5 3
+current time=5 ,tasks not assigned 5 3
+current time=5 ,tasks not assigned 6 4
+current time=5 ,tasks not assigned 7 3
+
+current time=6 ,tasks not assigned 2 2
+current time=6 ,tasks not assigned 3 4
+current time=6 ,tasks not assigned 3 4
+current time=6 ,tasks not assigned 4 2
+current time=6 ,tasks not assigned 4 4
+current time=6 ,tasks not assigned 5 4
+current time=6 ,tasks not assigned 5 3
+current time=6 ,tasks not assigned 5 3
+current time=6 ,tasks not assigned 6 4
+current time=6 ,tasks not assigned 7 3
+current time=7 TASK REMOVED by server with id: 0 task:id=6 ArrTime 1 PrTime: 2
+
+current time=7 ,tasks not assigned 2 2
+current time=7 ,tasks not assigned 3 4
+current time=7 ,tasks not assigned 3 4
+current time=7 TASK TAKEN by server with id: 0 task:id=12 ArrTime 2 PrTime: 2
+current time=7 ,tasks not assigned 4 2
+current time=7 ,tasks not assigned 4 4
+current time=7 ,tasks not assigned 5 4
+current time=7 ,tasks not assigned 5 3
+current time=7 ,tasks not assigned 5 3
+current time=7 ,tasks not assigned 6 4
+current time=7 ,tasks not assigned 7 3
+
+current time=8 ,tasks not assigned 3 4
+current time=8 ,tasks not assigned 3 4
+current time=8 ,tasks not assigned 4 2
+current time=8 ,tasks not assigned 4 4
+current time=8 ,tasks not assigned 5 4
+current time=8 ,tasks not assigned 5 3
+current time=8 ,tasks not assigned 5 3
+current time=8 ,tasks not assigned 6 4
+current time=8 ,tasks not assigned 7 3
+current time=9 TASK REMOVED by server with id: 0 task:id=12 ArrTime 2 PrTime: 2
+
+current time=9 ,tasks not assigned 3 4
+current time=9 ,tasks not assigned 3 4
+current time=9 ,tasks not assigned 4 2
+current time=9 TASK TAKEN by server with id: 0 task:id=3 ArrTime 3 PrTime: 4
+current time=9 ,tasks not assigned 4 4
+current time=9 ,tasks not assigned 5 4
+current time=9 ,tasks not assigned 5 3
+current time=9 ,tasks not assigned 5 3
+current time=9 ,tasks not assigned 6 4
+current time=9 ,tasks not assigned 7 3
+
+current time=10 ,tasks not assigned 3 4
+current time=10 ,tasks not assigned 4 2
+current time=10 ,tasks not assigned 4 4
+current time=10 ,tasks not assigned 5 4
+current time=10 ,tasks not assigned 5 3
+current time=10 ,tasks not assigned 5 3
+current time=10 ,tasks not assigned 6 4
+current time=10 ,tasks not assigned 7 3
+
+current time=11 ,tasks not assigned 3 4
+current time=11 ,tasks not assigned 4 2
+current time=11 ,tasks not assigned 4 4
+current time=11 ,tasks not assigned 5 4
+current time=11 ,tasks not assigned 5 3
+current time=11 ,tasks not assigned 5 3
+current time=11 ,tasks not assigned 6 4
+current time=11 ,tasks not assigned 7 3
+
+current time=12 ,tasks not assigned 3 4
+current time=12 ,tasks not assigned 4 2
+current time=12 ,tasks not assigned 4 4
+current time=12 ,tasks not assigned 5 4
+current time=12 ,tasks not assigned 5 3
+current time=12 ,tasks not assigned 5 3
+current time=12 ,tasks not assigned 6 4
+current time=12 ,tasks not assigned 7 3
+current time=13 TASK REMOVED by server with id: 0 task:id=3 ArrTime 3 PrTime: 4
+
+current time=13 ,tasks not assigned 3 4
+current time=13 ,tasks not assigned 4 2
+current time=13 ,tasks not assigned 4 4
+current time=13 TASK TAKEN by server with id: 0 task:id=8 ArrTime 3 PrTime: 4
+current time=13 ,tasks not assigned 5 4
+current time=13 ,tasks not assigned 5 3
+current time=13 ,tasks not assigned 5 3
+current time=13 ,tasks not assigned 6 4
+current time=13 ,tasks not assigned 7 3
+
+current time=14 ,tasks not assigned 4 2
+current time=14 ,tasks not assigned 4 4
+current time=14 ,tasks not assigned 5 4
+current time=14 ,tasks not assigned 5 3
+current time=14 ,tasks not assigned 5 3
+current time=14 ,tasks not assigned 6 4
+current time=14 ,tasks not assigned 7 3
